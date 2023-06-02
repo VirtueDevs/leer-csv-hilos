@@ -53,7 +53,7 @@ public class leerCSV extends Thread {
     }
 
     public static void main(String[] args) {
-        String archivoCSV = "src/cSV/male_teams.csv";
+        String archivoCSV = "archivo";
         String separador = ",";
         Scanner scanner = new Scanner(System.in);
 
